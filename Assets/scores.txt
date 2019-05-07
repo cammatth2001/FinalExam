@@ -1,0 +1,8 @@
+cam, 10
+cam, 10
+cam, 10
+cam, 10
+cam, 10
+cam, 10
+cam, 10
+cam, 10
